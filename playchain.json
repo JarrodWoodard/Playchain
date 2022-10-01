@@ -1,7 +1,7 @@
 {
   "chain_name": "PLAYCHAIN_2022-10-01T00:00:00Z",
   "default_bootstrap_peers": [
-    "104.156.244.105",
+    "104.156.244.105"
   ],
   "genesis": {
     "block": "BMFCHw1mv3A71KpTuGD3MoFnkHk9wvTYjUzuR9QqiUumKGFG6pM",
@@ -13,7 +13,5 @@
       "genesis_pubkey": "edpkvLZTPsXaZFJhWaCMdXP3nmmgszu48q7QXjY7xFBYDs9JLGehnJ"
     }
   },
-  "sandboxed_chain_name": "SANDBOXED_TEZOS",
-}
-  ]
+  "sandboxed_chain_name": "SANDBOXED_TEZOS"
 }
